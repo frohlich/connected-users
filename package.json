@@ -1,0 +1,19 @@
+{
+  "name": "connected-users",
+  "version": "1.0.0",
+  "description": "Identify connected users on intranet.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/frohlich/connected-users.git"
+  },
+  "author": "Lucas Frohlich",
+  "license": "GPL-2.0",
+  "bugs": {
+    "url": "https://github.com/frohlich/connected-users/issues"
+  },
+  "homepage": "https://github.com/frohlich/connected-users#readme"
+}
